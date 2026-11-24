@@ -15,7 +15,6 @@ Cada pessoa cadastra só o que é dela (renda, contas, cartões, VR/VA, investim
 
 ## Baixar
 Os programas prontos ficam em **Releases** (instalador e versão portátil do Windows, APK do Android e servidor para PC).
-Versão de celular: o site do **GitHub Pages** deste repositório (use "Adicionar à Tela de Início").
 
 ## Estrutura
 ```
